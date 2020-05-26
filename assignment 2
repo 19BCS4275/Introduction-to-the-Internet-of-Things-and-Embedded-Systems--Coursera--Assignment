@@ -1,0 +1,34 @@
+      1) Identify two embedded systems that are sold on the market today and analyze their interfaces.
+
+      A) 1.Smart Watch
+         2.Smart Fridge
+   
+     2)  Describe all inputs to each system and outputs from each system.
+
+     A) 1 .SMART WATCH:
+
+        INPUT: Touchpad , Power,Bluetooth.
+
+        OUTPUT: Information about weather, time, blood pressure, make calls
+
+        2  SMART FRIDGE :
+
+        INPUT :  Touchpad on monitor, food, power, bluetooth
+
+        OUTPUT : Information about food
+    
+    
+    3)  Classify the inputs and outputs based on their mode of interaction:
+
+          -Visual - describing data carried by visible light
+
+          -Audio - describing data carried by sound
+
+          -Tactile - describing data carried by touch
+
+          -Electronic - describing data encoded in electrical signals
+          
+    A)    1)Visual: Information
+          2)Audio: Calls
+          3)Tactile: Touchpad, Food
+          4)Electronic: Power, Bluetooth
