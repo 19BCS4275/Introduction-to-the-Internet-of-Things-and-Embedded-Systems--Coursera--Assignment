@@ -1,0 +1,42 @@
+1)  Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers that you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information. (Be sure to include a link to an online reference where you found this information.)  
+
+      a)Clock frequency
+      b)Bitwidth of the datapath
+      c)Size of Flash memory
+      d)Number of pins
+      e)Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+  
+A)    1) RenesasRX : -
+
+          Clock frequency -  240MHZ.
+          Bitwidth of the datapath -  32 bit.
+          Size of Flash memory - 512KB.
+          Number of pins - 64.
+          Analog-to-Digital Converter - 12 -bit ADC.
+          Reference : - https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rx/rx700/rx71m.html
+
+       2)  ATmega32 : -
+
+          Clock frequency  -  1 MIPS .
+          Bitwidth of the datapath  -  8 bit.
+          Size of Flash memory   -  32KB.
+          Number of pins  - 44.
+          Analog-to-Digital Converter - 10 -bit ADC .
+          Reference : -  https://www.microchip.com/wwwproducts/en/ATmega32
+          
+ 2)Research the Arduino and Raspberry Pi platforms. 
+
+          a)Indicate if there are operating systems which can be used on each platform. If there are, list those operating systems
+          b)State whether the operating systems are open source or not. 
+          
+  A)      1)  Operating system :-
+
+            a) Aurdino - No.
+
+            b)Raspberry pi - Yes --> (Raspbian) .
+
+          2) Open source  or not :
+
+                a) Aurdino  :- No .
+
+                 b)Raspberry pi - Yes --> (Raspbian) .
